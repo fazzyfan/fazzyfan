@@ -1,1 +1,0 @@
-project_QR_dota_bot
